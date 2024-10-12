@@ -179,9 +179,19 @@ button.learn-more-btn {
 
 .web-skills:first-of-type{
     background-color: #fff;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
 }
 .web-skills:nth-of-type(3){
     background-color: #fff;
+    border-radius: 16px;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    -ms-border-radius: 16px;
+    -o-border-radius: 16px;
 }
 .youtube-iframe {
     padding: 32px;
