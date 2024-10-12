@@ -161,3 +161,31 @@ button.learn-more-btn {
     margin-top: 20px;
 }
 
+.inspiration-area {
+    padding: 48px;
+}
+
+.inspiration-titile {
+    font-size: 32px;
+    text-align: center;
+}
+
+.inspiration-description {
+    font-size: 16px;
+    text-align: center;
+    padding: 0px 95px;
+    padding-bottom: 48px;
+}
+
+.web-skills:first-of-type{
+    background-color: #fff;
+}
+.web-skills:nth-of-type(3){
+    background-color: #fff;
+}
+.youtube-iframe {
+    padding: 32px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
