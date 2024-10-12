@@ -95,3 +95,69 @@ p.description {
     text-align: center;
 }
 
+.titile {
+    margin-bottom: 10px;
+}
+
+#web-development {
+    padding: 0px 0px;
+}
+
+h1.web-titile {
+    font-size: 32px;
+    text-align: center;
+}
+
+p.web-description {
+    font-size: 16px;
+    text-align: center;
+    padding: 0px 48px;
+    padding-bottom: 48px;
+}
+
+.web-skills {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 48px;
+}
+
+.web-skills:first-child {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.web-skill {
+    width: 480px;
+}
+
+.web-development-area {
+    padding: 80px 97px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.web-skill h2 {
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+button.learn-more-btn {
+    padding: 12px 30px 12px 30px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    font-size: 20px;
+    background: transparent;
+    margin-top: 20px;
+}
+
